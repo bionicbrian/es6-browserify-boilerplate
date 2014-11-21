@@ -1,0 +1,23 @@
+{
+  "name": "six-to-five-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A little boilerplater to jump start experiments with React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Moore",
+  "license": "BSD",
+  "dependencies": {
+    "browserify": "^5.11.0",
+    "gulp": "^3.8.7",
+    "gulp-stylus": "^1.3.0",
+    "underscore": "^1.7.0",
+    "vinyl-source-stream": "^0.1.1"
+  },
+  "devDependencies": {
+    "6to5-browserify": "^1.3.0",
+    "jquery": "^2.1.1"
+  }
+}
